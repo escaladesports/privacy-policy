@@ -34,6 +34,6 @@ Escalade Sports’ may use the “cookie” feature of your browser to assist in
 
 Escalade Sports may use log and tracking files that gather information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  Escalade Sports may use such information to analyze trends, administer the website, track user's movement in the aggregate, and to analyze broad demographic information for aggregate use. Escalade Sports’ may hire third parties to assist in analyzing its log files.  Any third party companies are prohibited from using your information in any manner other than to help Escalade Sports to provide you with Escalade Sports’ products and services.
 
-Questions. If you have any questions regarding this Agreement, please [contact us](http://www.lifelinefitness.com/customer-care/) by phone at 1-800-467-1421, or by email at [customerservice@escaladesports.com](mailto:customerservice@escaladesports.com).
+Questions. If you have any questions regarding this Agreement, please contact us by phone at 1-800-467-1421, or by email at [customerservice@escaladesports.com](mailto:customerservice@escaladesports.com).
 
 The date of this privacy policy is July 2017.
