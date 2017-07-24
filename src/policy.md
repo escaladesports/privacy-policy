@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 PRIVACY POLICY
 
 We respect and protect your privacy. Your privacy and the security of your personal information are very important to us. We are dedicated to protecting the privacy of those who visit our website, our partners and affiliates. We want you to be as comfortable as possible visiting our website. To better protect your privacy we provide this notice explaining our online information practices.
