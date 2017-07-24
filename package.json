@@ -1,6 +1,6 @@
 {
   "name": "privacy-policy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/policy.md",
   "author": "Kennedy Rose <kennedy@escaladesports.com>",
   "license": "MIT",
